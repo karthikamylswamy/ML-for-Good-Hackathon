@@ -11,19 +11,18 @@ Venkatesh Taduvayi
 
 # Project Overview:
 
-In this project we have done the following usecases  
+In this project we have done the following use cases
 
-1. Crislogger: Sentiment analysis and topic modeling with crisis logger data using various methedologies 
-2. ProlificAcademy: Finding the Polarity and subjectivity of the positive statements and the correlation between the positive change with the various activites like social media, isolated, video game, outdoor. Along with the positive/negative impact based on occupation, worry and other features. 
+1. Crislogger: Sentiment analysis and topic modeling with crisis logger data using various methodologies
+2. ProlificAcademy: Finding the Polarity and subjectivity of the positive statements and the correlation between the positive change with the various activities like social media, isolated, video game, outdoor. Along with the positive/negative impact based on occupation, worry and other features.
 
-The first usecase can be found in the notebook: team29_CrisisLogger.ipynb  
-The second usecase can be found in the notebook: team29_ProlificAcademic.ipynb   
+The first use case can be found in the notebook: team29_CrisisLogger.ipynb
+The second use case can be found in the notebook: team29_ProlificAcademic.ipynb 
 
-# Usecase 1: Crisis Logger
-The crisislogger data had the transcriptions and with that data we have done the sentiment analsysis and topic modeling. 
+# Use case 1: Crisis Logger
+The crisislogger data had the transcriptions and with that data we have done the sentiment analysis and topic modeling.
 
-We have showcased the sentiments like positive, negative and neutral using various NLP model/ algorithm
-We also did the word cloud to highligh the most frequently used words. 
+We have showcased the sentiments like positive, negative and neutral using various NLP model/ algorithm We also did the word cloud to highlight the most frequently used words. 
 
 ### Feature used:
 transcriptions 
@@ -35,16 +34,13 @@ Vader
 Spacy 
 LDA Model 
 
-# Usecase 2: ProlificAcademy
+# Use case 2: ProlificAcademy
 
-In this use case we have done the following 
+In this use case we have done the following
 
 1. showcased the polarity and subjectivity based on the feature specifypositive (free text field)
-
-2. Showcased the postive or negative correlation between the feature positivechange and activities features like social media, isolated, video game, outdoor
-
-3. Analyzed the positive/negative/neutral impact beased on the occupation and worry. 
-
+2. Showcased the positive or negative correlation between the feature positivechange and activities features like social media, isolated, video game, outdoor
+3. Analyzed the positive/negative/neutral impact based on the occupation and worry.
 4. Created a heatmap to show the correlation between the worry and features like positivechange, country, infected, sex, education, mentalhealth, financedifficulty, livingdifficulty, foodsecurity
 
 
@@ -86,7 +82,7 @@ Linear regression
 
 
 
-# Packages and Models used in both usescases:
+# Packages and Models used in both use cases:
 sklearn   
 nltk   
 panda  
