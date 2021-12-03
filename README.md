@@ -1,4 +1,4 @@
-# ML-for-Good-Hackathon
+
 # ML For Good with Child Mind Institute Data
 
 ## Authors:
