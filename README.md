@@ -16,8 +16,8 @@ In this project we have done the following use cases
 1. Crislogger: Sentiment analysis and topic modeling with crisis logger data using various methodologies
 2. ProlificAcademy: Finding the Polarity and subjectivity of the positive statements and the correlation between the positive change with the various activities like social media, isolated, video game, outdoor. Along with the positive/negative impact based on occupation, worry and other features.
 
-The first use case can be found in the notebook: team29_CrisisLogger.ipynb
-The second use case can be found in the notebook: team29_ProlificAcademic.ipynb 
+The first use case can be found in the notebook: team29_CrisisLogger.ipynb      
+The second use case can be found in the notebook: team29_ProlificAcademic.ipynb    
 
 # Use case 1: Crisis Logger
 The crisislogger data had the transcriptions and with that data we have done the sentiment analysis and topic modeling.
