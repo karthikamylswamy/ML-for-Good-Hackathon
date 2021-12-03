@@ -2,8 +2,8 @@
 # ML For Good with Child Mind Institute Data
 
 ## Authors:
-Anju Jain   
-Ali Lotfdar   
+Ali Lotfdar  
+Anju Jain
 Karthika Mylswamy   
 Venkatesh Taduvayi   
 
