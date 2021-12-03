@@ -1,7 +1,7 @@
 
 # ML For Good with Child Mind Institute Data
 
-## Authors:
+## Developers:
 Ali Lotfdar  
 Anju Jain  
 Karthika Mylswamy   
